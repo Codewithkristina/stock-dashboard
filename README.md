@@ -2,7 +2,7 @@
 
 Interactive dashboard analyzing one year of daily prices for 6 major stocks.
 
-**Live demo:** [add link after deploying]
+**Live demo:https://stock-dashboard-kszysdj5x3rqzhrufujpci.streamlit.app/
 
 ## What it does
 - Downloads daily price data with yfinance and stores it in SQLite
